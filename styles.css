@@ -1,4 +1,9 @@
 /* Global Styles */
+@font-face {
+    font-family: 'Sentient';
+    src: url('./assets/Sentient-Variable-e0c1b99d.woff2') format('woff2');
+}
+
 :root {
     --primary-color: #1a237e;
     --secondary-color: #f5f5f5;
